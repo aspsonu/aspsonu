@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a backend developer with **2+ years of professional experience** in building scalable enterprise applications using **Java**, **Spring Boot**, and **MySQL**, with additional frontend capabilities in **Angular**.
+I’m a backend developer with **4+ years of professional experience** in building scalable enterprise applications using **Java**, **Spring Boot**, and **MySQL**, with additional frontend capabilities in **Angular**.
 
 I hold a **Master’s in Information Systems** (GPA: 4.0/4.0) from Northwest Missouri State University, and I’m actively seeking **full-time roles** in Backend, Java Development, or Full Stack Engineering.
 
