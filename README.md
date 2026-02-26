@@ -45,7 +45,7 @@ I bring strong problem-solving skills, solid coding practices, and production-re
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Sai Pranith Arandkar-Resume.pdf" download>
+  <a href="./Sai Pranith Arandkar - Full Stack Java Developer.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-007ACC?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Button">
   </a>
 </p>
